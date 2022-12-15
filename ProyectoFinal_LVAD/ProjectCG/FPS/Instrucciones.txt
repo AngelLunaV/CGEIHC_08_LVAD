@@ -1,0 +1,5 @@
+el archivo de los valores de la animacion llamado "archivo.txt" 
+va en una carpeta llamada "FPS"
+los datos de las animaciones se leen por linea, entonces para dar
+una separacion de los valores, estos deben estar en linea por dato
+como en el documento "archivo.txt"
